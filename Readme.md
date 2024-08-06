@@ -1,6 +1,6 @@
 # Note
 
-The code couldn't be able to compile in VSC So used on line SQL Server compiler successfully got output and attched the screenShot on the outputs 
+The code couldn't be compiled in VSC So I used the Online SQL Server compiler successfully got the output and attached the screenShot of the outputs 
 
 # Database Schema README
 
